@@ -25,3 +25,7 @@ a {
   background-color: #ffebe6;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
