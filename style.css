@@ -15,7 +15,8 @@ h1 {
 }
 
 nav {
-  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
