@@ -38,6 +38,8 @@ p #featured-property {
   display: block;
 }
 
-
+#details div {
+  float: left;
+}
 
 
