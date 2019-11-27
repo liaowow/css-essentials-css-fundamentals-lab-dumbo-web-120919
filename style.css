@@ -40,6 +40,8 @@ p #featured-property {
 
 div {
   float: left;
+  background-color: grey;
+  text-align: center;
 }
 
 
